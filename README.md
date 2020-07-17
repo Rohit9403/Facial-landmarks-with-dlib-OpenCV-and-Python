@@ -7,3 +7,11 @@
 - [shape_predictor_68_face_landmarks.dat](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/#download-the-code)
 - dlib
 - OpenCV
+
+## Regions Predicted
+Facial landmarks are used to localize and represent salient regions of the face, such as:
+- Eyes
+- Eyebrows
+- Nose
+- Mouth
+- Jawline
